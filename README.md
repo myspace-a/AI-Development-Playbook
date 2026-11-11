@@ -1,4 +1,4 @@
-AI Development Learnings
+# AI Development Learnings
 
 Personal knowledge base for learning AI-assisted application development.
 
@@ -6,8 +6,9 @@ This repository collects lessons, best practices, workflows, methodology, and re
 
 The goal is to turn lessons from individual projects into a reusable personal methodology for developing applications with AI.
 
-Repository Structure
+## Repository Structure
 
+```text
 AI_Development_Learnings/
 │
 ├── README.md
@@ -35,3 +36,4 @@ AI_Development_Learnings/
     ├── coaching-chat.md
     ├── build-chat.md
     └── review-chat.md
+```
